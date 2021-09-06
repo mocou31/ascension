@@ -1,2 +1,2 @@
 # ascension
-Hubi project
+plugin project
